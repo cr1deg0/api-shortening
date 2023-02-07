@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:](https://www.frontendmentor.io/solutions/api-shortening-react-app-08FWJZerSM)
-- [Live Site URL:](https://statuesque-basbousa-9cebdf.netlify.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/api-shortening-react-app-08FWJZerSM)
+- [Live Site URL](https://statuesque-basbousa-9cebdf.netlify.app/)
 
 ## My process
 
