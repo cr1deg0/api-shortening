@@ -6,15 +6,12 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL:](https://www.frontendmentor.io/solutions/api-shortening-react-app-08FWJZerSM)
+- [Live Site URL:](https://statuesque-basbousa-9cebdf.netlify.app/)
 
 ## My process
 
@@ -43,7 +40,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 - [Jest](https://jestjs.io/)
-- [Testing Library](https://testing-library.com/)
+- [React Testing Library](https://testing-library.com/)
 
 ### What I learned
 

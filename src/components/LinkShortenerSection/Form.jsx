@@ -14,7 +14,6 @@ const Form = ({ input, onChange, onSubmit, error }) => {
 						type='text'
 						className='relative rounded-md  h-12 pl-6 lg:w-5/6 lg:mr-6'
 						aria-invalid={error ? 'true' : 'false'}
-						aria-errormessage={error ? 'error' : ''}
 						aria-required='true'
 						value={input}
 						onChange={onChange}

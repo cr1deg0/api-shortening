@@ -1,17 +1,15 @@
-import PropTypes from "prop-types";
+import PropTypes from 'prop-types'
 
-const ListTitle = ({children}) => {
-  return (
-    <h5
-      className="text-white text-base font-medium my-6 lg:mt-0"
-    >
-      {children}
-    </h5>
-  )
+const ListTitle = ({ children }) => {
+	return (
+		<h3 className='text-white text-base font-medium my-6 lg:mt-0'>
+			{children}
+		</h3>
+	)
 }
 
 ListTitle.propTypes = {
-  children: PropTypes.string,
-};
+	children: PropTypes.string,
+}
 
-export default ListTitle;
+export default ListTitle
