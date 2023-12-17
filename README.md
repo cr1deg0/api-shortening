@@ -1,6 +1,9 @@
 # Frontend Mentor - Shortly URL shortening API Challenge solution
 
 This is a solution to the [Shortly URL shortening API Challenge challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+<img width="1319" alt="shortly screenshot 1" src="https://github.com/cr1deg0/api-shortening/assets/86016298/db7c37e4-b7f4-4ef8-a545-b654ed9f28a2">
+<img width="1319" alt="shortly screenshot 2" src="https://github.com/cr1deg0/api-shortening/assets/86016298/65db28e6-2414-421d-bd27-e13b15e43d48">
+<img width="1319" alt="shortly screenshot 3" src="https://github.com/cr1deg0/api-shortening/assets/86016298/2f673bf5-f979-402c-ad0a-37730bdab28a">
 
 ## Table of contents
 
